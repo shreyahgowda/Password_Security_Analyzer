@@ -10,13 +10,14 @@ The program also calculates password entropy to measure randomness and estimates
 
 This project demonstrates important cybersecurity concepts such as password complexity validation, entropy calculation, and brute-force attack estimation.
 
-* Expected Input
+Expected Input
 
 The program expects the user to enter a password.
 
 Example:
 
 Enter your password: Hello@123
+
 Expected Output
 
 The program analyzes the password and displays its strength, entropy, estimated crack time, and suggestions for improvement.
@@ -24,14 +25,19 @@ The program analyzes the password and displays its strength, entropy, estimated 
 Example Output:
 
 Password Strength Score: 5/5
+
 Entropy: 52.45 bits
+
 Estimated Crack Time: 120 years
+
 Password is strong.
 
 Example (Weak Password):
 
 Password Strength Score: 2/5
+
 Entropy: 18.72 bits
+
 Estimated Crack Time: 5 minutes
 
 Suggestions:
