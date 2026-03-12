@@ -16,7 +16,7 @@ The program expects the user to enter a password.
 
 # Example:
 
-Enter your password: Hello@123
+    Enter your password: Hello@123
 
 # Expected Output
 
@@ -24,13 +24,10 @@ The program analyzes the password and displays its strength, entropy, estimated 
 
 # Example Output:
 
-                Password Strength Score: 5/5
-
-                Entropy: 52.45 bits
-
-                Estimated Crack Time: 120 years
-
-                Password is strong.
+    Password Strength Score: 5/5
+    Entropy: 52.45 bits
+    Estimated Crack Time: 120 years
+    Password is strong.
 
 # Example (Weak Password):
 
