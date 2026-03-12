@@ -12,7 +12,7 @@ This project demonstrates important cybersecurity concepts such as password comp
 
 # Expected Input
 
-The program expects the user to enter a password.
+    The program expects the user to enter a password.
 
 # Example:
 
@@ -20,7 +20,7 @@ The program expects the user to enter a password.
 
 # Expected Output
 
-The program analyzes the password and displays its strength, entropy, estimated crack time, and suggestions for improvement.
+    The program analyzes the password and displays its strength, entropy, estimated crack time, and suggestions for improvement.
 
 # Example Output:
 
@@ -31,11 +31,9 @@ The program analyzes the password and displays its strength, entropy, estimated 
 
 # Example (Weak Password):
 
-                Password Strength Score: 2/5
-
-                Entropy: 18.72 bits
-
-                Estimated Crack Time: 5 minutes
+    Password Strength Score: 2/5
+    Entropy: 18.72 bits
+    Estimated Crack Time: 5 minutes
 
 # Suggestions:
 - Add at least one uppercase letter
