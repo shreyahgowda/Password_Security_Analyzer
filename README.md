@@ -1,4 +1,4 @@
-# 🔐 Password Security Analyzer
+## 🔐 Password Security Analyzer
 
 ## 🚀 Live Demo
 https://password-security-analyzer-tb4x.onrender.com
@@ -10,36 +10,37 @@ The program also calculates password entropy to measure randomness and estimates
 
 This project demonstrates important cybersecurity concepts such as password complexity validation, entropy calculation, and brute-force attack estimation.
 
-Expected Input
+# Expected Input
 
 The program expects the user to enter a password.
 
-Example:
+# Example:
 
 Enter your password: Hello@123
 
-Expected Output
+# Expected Output
 
 The program analyzes the password and displays its strength, entropy, estimated crack time, and suggestions for improvement.
 
-Example Output:
+# Example Output:
 
-Password Strength Score: 5/5
+                Password Strength Score: 5/5
 
-Entropy: 52.45 bits
+                Entropy: 52.45 bits
 
-Estimated Crack Time: 120 years
+                Estimated Crack Time: 120 years
 
-Password is strong.
+                Password is strong.
 
-Example (Weak Password):
+# Example (Weak Password):
 
-Password Strength Score: 2/5
+                Password Strength Score: 2/5
 
-Entropy: 18.72 bits
+                Entropy: 18.72 bits
 
-Estimated Crack Time: 5 minutes
+                Estimated Crack Time: 5 minutes
 
-Suggestions:
+# Suggestions:
 - Add at least one uppercase letter
 - Add at least one special character
+- Add at least one digits 
