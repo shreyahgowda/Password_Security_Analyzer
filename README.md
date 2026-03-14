@@ -1,6 +1,6 @@
-## 🔐 Password Security Analyzer
+# 🔐 Password Security Analyzer
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 https://password-security-analyzer-tb4x.onrender.com
 
 
