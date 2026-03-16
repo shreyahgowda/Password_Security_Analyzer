@@ -15,7 +15,7 @@ This project demonstrates important cybersecurity concepts such as password comp
 
     The program expects the user to enter a password.
 
-# Example:
+# Example 1:
 
     Enter your password: Hello@123
 
