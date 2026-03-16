@@ -30,7 +30,7 @@ This project demonstrates important cybersecurity concepts such as password comp
     Estimated Crack Time: 120 years
     Password is strong.
 
-# Example (Weak Password):
+# Example 2 (Weak Password):
 
     Password Strength Score: 2/5
     Entropy: 18.72 bits
